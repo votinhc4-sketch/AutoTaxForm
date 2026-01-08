@@ -1,0 +1,21 @@
+{
+  "name": "Auto Tax Form C1-02/NS",
+  "short_name": "Auto Tax",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/votinhc4-sketch/Storage/refs/heads/main/autoTaxForm/logo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/votinhc4-sketch/Storage/refs/heads/main/autoTaxForm/logo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
