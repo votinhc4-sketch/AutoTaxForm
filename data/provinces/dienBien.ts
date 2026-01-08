@@ -1,0 +1,46 @@
+export const data = `1054805,Thuế Tỉnh Điện Biên
+1141562,Phường Mường Thanh - Thuế cơ sở 2 tỉnh Điện Biên
+1139465,Xã Quài Tở - Thuế cơ sở 3 tỉnh Điện Biên
+1141256,Xã Na Sang - Thuế cơ sở 4 tỉnh Điện Biên
+1141257,Xã Mường Tùng - Thuế cơ sở 4 tỉnh Điện Biên
+1141258,Xã Pa Ham - Thuế cơ sở 4 tỉnh Điện Biên
+1141259,Xã Nậm Nèn - Thuế cơ sở 4 tỉnh Điện Biên
+1141260,Xã Mường Pồn - Thuế cơ sở 4 tỉnh Điện Biên
+1141261,Phường Mường Lay - Thuế cơ sở 4 tỉnh Điện Biên
+1141262,Xã Mường Phăng - Thuế cơ sở 1 tỉnh Điện Biên
+1141263,Phường Điện Biên Phủ - Thuế cơ sở 1 tỉnh Điện Biên
+1141264,Xã Mường Ảng - Thuế cơ sở 1 tỉnh Điện Biên
+1141265,Xã Nà Tấu - Thuế cơ sở 1 tỉnh Điện Biên
+1141266,Xã Mường Lạn - Thuế cơ sở 1 tỉnh Điện Biên
+1141267,Xã Tuần Giáo - Thuế cơ sở 3 tỉnh Điện Biên
+1141268,Xã Mường Mùn - Thuế cơ sở 3 tỉnh Điện Biên
+1141269,Xã Pú Nhung - Thuế cơ sở 3 tỉnh Điện Biên
+1141270,Xã Chiềng Sinh - Thuế cơ sở 3 tỉnh Điện Biên
+1141271,Xã Tủa Chùa - Thuế cơ sở 3 tỉnh Điện Biên
+1141272,Xã Sín Chải - Thuế cơ sở 3 tỉnh Điện Biên
+1141273,Xã Sính Phình - Thuế cơ sở 3 tỉnh Điện Biên
+1141274,Xã Tủa Thàng - Thuế cơ sở 3 tỉnh Điện Biên
+1141275,Xã Sáng Nhè - Thuế cơ sở 3 tỉnh Điện Biên
+1141276,Xã Búng Lao - Thuế cơ sở 3 tỉnh Điện Biên
+1141068,Xã Thanh Nưa - Thuế cơ sở 2 tỉnh Điện Biên
+1141069,Xã Thanh An - Thuế cơ sở 2 tỉnh Điện Biên
+1141070,Xã Thanh Yên - Thuế cơ sở 2 tỉnh Điện Biên
+1141071,Xã Sam Mứn - Thuế cơ sở 2 tỉnh Điện Biên
+1141072,Xã Núa Ngam - Thuế cơ sở 2 tỉnh Điện Biên
+1141073,Xã Mường Nhà - Thuế cơ sở 2 tỉnh Điện Biên
+1141074,Xã Na Son - Thuế cơ sở 2 tỉnh Điện Biên
+1141075,Xã Xa Dung - Thuế cơ sở 2 tỉnh Điện Biên
+1141076,Xã Pu Nhi - Thuế cơ sở 2 tỉnh Điện Biên
+1141077,Xã Mường Luân - Thuế cơ sở 2 tỉnh Điện Biên
+1141078,Xã Tìa Dình - Thuế cơ sở 2 tỉnh Điện Biên
+1141079,Xã Phình Giàng - Thuế cơ sở 2 tỉnh Điện Biên
+1141080,Xã Mường Nhé - Thuế cơ sở 5 tỉnh Điện Biên
+1141081,Xã Sín Thầu - Thuế cơ sở 5 tỉnh Điện Biên
+1141082,Xã Mường Toong - Thuế cơ sở 5 tỉnh Điện Biên
+1141083,Xã Nậm Kè - Thuế cơ sở 5 tỉnh Điện Biên
+1141084,Xã Quảng Lâm - Thuế cơ sở 5 tỉnh Điện Biên
+1141085,Xã Nà Hỳ - Thuế cơ sở 5 tỉnh Điện Biên
+1141086,Xã Mường Chà - Thuế cơ sở 5 tỉnh Điện Biên
+1141087,Xã Nà Bủng - Thuế cơ sở 5 tỉnh Điện Biên
+1141088,Xã Chà Tở - Thuế cơ sở 5 tỉnh Điện Biên
+1141255,Xã Si Pa Phìn - Thuế cơ sở 5 tỉnh Điện Biên`;

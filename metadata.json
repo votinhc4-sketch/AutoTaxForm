@@ -1,0 +1,5 @@
+{
+  "name": "Auto Tax Form C1-02/NS",
+  "description": "An automated tool to fill out the Vietnamese State Budget Payment Form (C1-02/NS) using AI to derive tax agency and treasury details from the address.",
+  "requestFramePermissions": []
+}

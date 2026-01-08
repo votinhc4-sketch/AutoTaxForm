@@ -1,0 +1,70 @@
+export const data = `1055970,Thuế Tỉnh Hà Tĩnh
+1140038,Xã Đồng Lộc - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140039,Phường Thành Sen - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140040,Phường Trần Phú - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140041,Phường Hà Huy Tập - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140127,Xã Cẩm Lạc - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1139290,Xã Thạch Lạc - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1139748,Xã Thượng Đức - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139750,Phường Hải Ninh - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139751,Phường Hoành Sơn - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139752,Phường Vũng Áng - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139753,Xã Kỳ Xuân - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139754,Xã Kỳ Anh - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139755,Xã Kỳ Hoa - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139756,Xã Kỳ Văn - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139757,Xã Kỳ Khang - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139758,Xã Kỳ Lạc - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139759,Xã Kỳ Thượng - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139760,Xã Hương Sơn - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139761,Xã Sơn Tây - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139762,Xã Tứ Mỹ - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139763,Xã Sơn Giang - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139764,Xã Sơn Tiến - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139765,Xã Sơn Hồng - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139766,Xã Kim Hoa - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139767,Xã Sơn Kim 1 - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139768,Xã Sơn Kim 2 - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139769,Xã Đức Thọ - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139770,Xã Đức Đồng - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139771,Xã Đức Quang - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139772,Xã Đức Thịnh - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139773,Xã Đức Minh - Thuế cơ sở 4 tỉnh Hà Tĩnh
+1139749,Phường Sông Trí - Thuế cơ sở 6 tỉnh Hà Tĩnh
+1139709,Xã Cẩm Trung - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1139710,Xã Yên Hòa - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1139711,Xã Hương Khê - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139740,Xã Hương Phố - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139741,Xã Hương Đô - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139742,Xã Hà Linh - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139743,Xã Hương Bình - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139744,Xã Phúc Trạch - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139745,Xã Hương Xuân - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139746,Xã Vũ Quang - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1139747,Xã Mai Hoa - Thuế cơ sở 5 tỉnh Hà Tĩnh
+1140120,Xã Đồng Tiến - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140121,Xã Thạch Khê - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140122,Xã Cẩm Bình - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140123,Xã Cẩm Xuyên - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140124,Xã Thiên Cầm - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140125,Xã Cẩm Duệ - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140126,Xã Cẩm Hưng - Thuế cơ sở 1 tỉnh Hà Tĩnh
+1140019,Phường Bắc Hồng Lĩnh - Thuế cơ sở 3 tỉnh Hà Tĩnh
+1140020,Phường Nam Hồng Lĩnh - Thuế cơ sở 3 tỉnh Hà Tĩnh
+1140021,Xã Tiên Điền - Thuế cơ sở 3 tỉnh Hà Tĩnh
+1140022,Xã Nghi Xuân - Thuế cơ sở 3 tỉnh Hà Tĩnh
+1140023,Xã Cổ Đạm - Thuế cơ sở 3 tỉnh Hà Tĩnh
+1140024,Xã Đan Hải - Thuế cơ sở 3 tỉnh Hà Tĩnh
+1140025,Xã Thạch Hà - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140026,Xã Toàn Lưu - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140027,Xã Việt Xuyên - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140028,Xã Đông Kinh - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140029,Xã Thạch Xuân - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140030,Xã Lộc Hà - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140031,Xã Hồng Lộc - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140032,Xã Mai Phụ - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140033,Xã Can Lộc - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140034,Xã Tùng Lộc - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140035,Xã Gia Hanh - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140036,Xã Trường Lưu - Thuế cơ sở 2 tỉnh Hà Tĩnh
+1140037,Xã Xuân Lộc - Thuế cơ sở 2 tỉnh Hà Tĩnh`;
