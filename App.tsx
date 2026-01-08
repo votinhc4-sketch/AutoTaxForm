@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { InputForm } from './components/InputForm';
 import { TaxForm } from './components/TaxForm';
 import { TaxFormData } from './types';
